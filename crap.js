@@ -2,7 +2,7 @@ Dot = ".";;
 	createModule (
   	'total' +
 			Dot
-		  + 'crap'
+		  + 'crap',
 [ "vendor.underscore"
 		,		"vendor" + Dot + "JQUERY".toLowerCase(), 'common.id'],function(
 _, $,
